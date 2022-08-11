@@ -12,4 +12,4 @@ Cuales son las probabilidades asignadas a cada numero del dado cargado?
 Ejercicio b
 
 -------
-se publicar
+se publicará el dia Jueves 12 de Agosto.
