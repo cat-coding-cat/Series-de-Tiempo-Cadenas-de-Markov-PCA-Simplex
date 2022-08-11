@@ -9,6 +9,8 @@ Imprime las dos matrices
 Cual de los dados está cargado?
 Cuales son las probabilidades asignadas a cada numero del dado cargado?
 
+
+-------
 Ejercicio b
 
 -------
