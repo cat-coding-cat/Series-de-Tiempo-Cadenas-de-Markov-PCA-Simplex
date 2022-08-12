@@ -14,4 +14,4 @@ Cuales son las probabilidades asignadas a cada numero del dado cargado?
 Ejercicio b
 
 -------
-se publicará el dia Jueves 12 de Agosto.
+Sigue las instrucciones en el archivo PCA_para_Visualizacion_de_Datos.py
