@@ -34,7 +34,7 @@ features = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width']
 #features = ['sepal_length', 'sepal_width', 'petal_length']
 
 
-# CON CUAL COMBINACIÓN DE 3 FEATURES LA PRIMERA Y LA SEGUNDA COMPONENTES PRINCIPALES SON MÁXIMAS?
+# CON CUAL COMBINACIÓN DE 3 FEATURES LA SUMA DE LA PRIMERA Y LA SEGUNDA COMPONENTES PRINCIPALES es MÁXIMA ?
 # es decir, con que elección de 3 features la primera y segunda componentes principales explican mayor variabilidad.
 
 
